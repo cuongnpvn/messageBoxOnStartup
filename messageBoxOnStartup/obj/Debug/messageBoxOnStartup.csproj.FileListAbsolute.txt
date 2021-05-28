@@ -1,0 +1,9 @@
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe.config
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.pdb
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\obj\Debug\messageBoxOnStartup.csprojAssemblyReference.cache
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\obj\Debug\messageBoxOnStartup.csproj.CoreCompileInputs.cache
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\obj\Debug\messageBoxOnStartup.exe
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\obj\Debug\messageBoxOnStartup.pdb
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\obj\Debug\messageBoxOnStartup.ProjectInstaller.resources
+C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\obj\Debug\messageBoxOnStartup.csproj.GenerateResource.cache

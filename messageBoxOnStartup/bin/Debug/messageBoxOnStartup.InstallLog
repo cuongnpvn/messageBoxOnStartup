@@ -1,0 +1,150 @@
+﻿Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe assembly.
+Committing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Uninstalling assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Uninstalling assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Uninstalling assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.InstallLog
+   assemblypath = C:\Users\qt\source\repos\messageBoxOnStartup\messageBoxOnStartup\bin\Debug\messageBoxOnStartup.exe
